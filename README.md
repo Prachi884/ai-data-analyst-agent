@@ -12,6 +12,9 @@ A web app that lets you **chat with your CSV files** using AI. Upload any datase
 - 🎁 Sample dataset included for instant testing
 - 🌐 100% browser-based — no install needed
 
+  Live at https://ai-data-analyst-agent-prachi.streamlit.app
+
+
 ## 🛠️ Tech Stack
 Python · Streamlit · Google Gemini API · Plotly · Pandas
 
