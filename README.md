@@ -6,7 +6,6 @@ A web app that lets you **chat with your CSV files** using AI. Upload any datase
 
 ## ✨ Features
 - 📁 CSV file upload (up to 200MB)
-- 💬 Conversational Q&A powered by Google Gemini
 - 📊 Multi-chart dashboard: KPIs, histograms, bar charts, trends, correlation heatmaps
 - 🔮 Auto-generated AI insights report
 - 🎁 Sample dataset included for instant testing
